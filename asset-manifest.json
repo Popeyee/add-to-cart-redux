@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Add-to-cart-redux/static/css/main.6be926a1.css",
-    "main.js": "/Add-to-cart-redux/static/js/main.767c1e82.js",
-    "index.html": "/Add-to-cart-redux/index.html",
-    "main.6be926a1.css.map": "/Add-to-cart-redux/static/css/main.6be926a1.css.map",
-    "main.767c1e82.js.map": "/Add-to-cart-redux/static/js/main.767c1e82.js.map"
+    "main.css": "/add-to-cart-redux/static/css/main.6be926a1.css",
+    "main.js": "/add-to-cart-redux/static/js/main.767c1e82.js",
+    "index.html": "/add-to-cart-redux/index.html",
+    "main.6be926a1.css.map": "/add-to-cart-redux/static/css/main.6be926a1.css.map",
+    "main.767c1e82.js.map": "/add-to-cart-redux/static/js/main.767c1e82.js.map"
   },
   "entrypoints": [
     "static/css/main.6be926a1.css",
